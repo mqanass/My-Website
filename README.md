@@ -29,7 +29,7 @@ Check out the live version here:
 - CSS3
 - JavaScript (if applicable)
 
-## 💡 Getting Started
+### 💡 Getting Started
 
 To run the website locally:
 
