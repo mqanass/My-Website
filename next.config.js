@@ -1,5 +1,8 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
+  output: 'export',
+  basePath: '/My-Website',
+  assetPrefix: '/My-Website/',
   allowedDevOrigins: ["*.preview.same-app.com"],
   images: {
     unoptimized: true,
