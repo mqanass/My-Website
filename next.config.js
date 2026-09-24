@@ -3,6 +3,7 @@ const nextConfig = {
   output: 'export',
   basePath: '/My-Website',
   assetPrefix: '/My-Website/',
+  trailingSlash: true,
   allowedDevOrigins: ["*.preview.same-app.com"],
   images: {
     unoptimized: true,
